@@ -6,6 +6,7 @@
 ### ☀️ Introduction
 Privacy and data security are interconnected components of a comprehensive approach to safeguarding personal information. The following diagram shows the intersection of privacy and security risks and is the basis for the proposed controls in this template.
 
+
 ## 1. Identity and Access control
 
 Identity and access controls help strike a balance between providing necessary access for legitimate purposes and protecting individual privacy rights. 
