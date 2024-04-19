@@ -6,6 +6,9 @@
 ### ☀️ Introduction
 Privacy and data security are interconnected components of a comprehensive approach to safeguarding personal information. The following diagram shows the intersection of privacy and security risks and is the basis for the proposed controls in this template.
 
+![Venn-Diagram](https://github.com/firstprinciplesecurity/Privacy-Operations-Template/assets/155581914/51a1c34a-4724-488a-97a9-2cd67aa2f78d)
+
+Source: https://www.nist.gov/blogs/cybersecurity-insights/data-analytics-small-businesses-how-manage-privacy-risks
 
 ## 1. Identity and Access control
 
